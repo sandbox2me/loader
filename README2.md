@@ -5,3 +5,4 @@ http://www.ajaxload.info/
 
 ## JS
 http://github.hubspot.com/pace/
+http://preloaders.net/
